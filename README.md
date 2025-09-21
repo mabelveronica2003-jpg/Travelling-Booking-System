@@ -1,10 +1,10 @@
-## Travelling-Booking-System
+# Travelling-Booking-System
 Travel booking system is a comprehensive system for booking travel, including flights, hotels, and car rentals. Implement features for managing reservations, itineraries, and user profiles.
 Travel Booking System (SQL Project)
 
 This project is a SQL-based Travel Booking System designed to demonstrate database design, query writing, and relational data management using MySQL. It covers core SQL concepts such as table creation, constraints, joins, aggregate functions, and queries for real-world booking scenarios.
 
- Features Implemented
+ ## Features Implemented
 
 Users Table – Stores customer details, age, and booking types.
 
@@ -14,7 +14,7 @@ Hotels Table – Stores hotel information (name, city, rating, amenities) linked
 
 Bookings Table – Records customer bookings across flights, hotels, and car rentals.
 
- Database Operations
+ ## Database Operations
 
 Table creation with Primary Keys & Foreign Keys
 
@@ -26,7 +26,7 @@ Filtering with WHERE, LIKE, BETWEEN, IN, and sorting using ORDER BY
 
 Aggregation using COUNT, SUM, AVG, MAX, MIN
 
-Various types of Joins:
+## Various types of Joins:
 
 Inner Join
 
